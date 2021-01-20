@@ -1,0 +1,13 @@
+D:\Python\Online_Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\Python\Online_Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\Python\Online_Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\Python\Online_Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\Python\Online_Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Python\Online_Camp\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Python\Online_Camp\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

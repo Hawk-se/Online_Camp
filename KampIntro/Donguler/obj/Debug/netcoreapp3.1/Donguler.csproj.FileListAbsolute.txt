@@ -1,0 +1,13 @@
+D:\Python\Online_Camp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+D:\Python\Online_Camp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+D:\Python\Online_Camp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+D:\Python\Online_Camp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+D:\Python\Online_Camp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+D:\Python\Online_Camp\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache
+D:\Python\Online_Camp\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csprojAssemblyReference.cache

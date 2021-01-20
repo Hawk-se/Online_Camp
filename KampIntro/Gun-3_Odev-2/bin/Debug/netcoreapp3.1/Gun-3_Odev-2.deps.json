@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gun-3_Odev-2/1.0.0": {
+        "runtime": {
+          "Gun-3_Odev-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gun-3_Odev-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

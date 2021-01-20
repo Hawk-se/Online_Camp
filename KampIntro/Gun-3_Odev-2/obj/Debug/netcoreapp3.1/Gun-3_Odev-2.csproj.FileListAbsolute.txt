@@ -1,0 +1,13 @@
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.AssemblyInfoInputs.cache
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.AssemblyInfo.cs
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.csproj.CoreCompileInputs.cache
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\bin\Debug\netcoreapp3.1\Gun-3_Odev-2.exe
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\bin\Debug\netcoreapp3.1\Gun-3_Odev-2.deps.json
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\bin\Debug\netcoreapp3.1\Gun-3_Odev-2.runtimeconfig.json
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\bin\Debug\netcoreapp3.1\Gun-3_Odev-2.runtimeconfig.dev.json
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\bin\Debug\netcoreapp3.1\Gun-3_Odev-2.dll
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\bin\Debug\netcoreapp3.1\Gun-3_Odev-2.pdb
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.dll
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.pdb
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.genruntimeconfig.cache
+D:\Python\Online_Camp\KampIntro\Gun-3_Odev-2\obj\Debug\netcoreapp3.1\Gun-3_Odev-2.csprojAssemblyReference.cache

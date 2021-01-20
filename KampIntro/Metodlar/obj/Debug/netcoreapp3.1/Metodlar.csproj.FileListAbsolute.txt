@@ -1,0 +1,13 @@
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csprojAssemblyReference.cache
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfoInputs.cache
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfo.cs
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csproj.CoreCompileInputs.cache
+D:\Python\Online_Camp\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.exe
+D:\Python\Online_Camp\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.deps.json
+D:\Python\Online_Camp\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.json
+D:\Python\Online_Camp\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.dev.json
+D:\Python\Online_Camp\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.dll
+D:\Python\Online_Camp\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.pdb
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.dll
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.pdb
+D:\Python\Online_Camp\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.genruntimeconfig.cache

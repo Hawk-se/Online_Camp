@@ -1,0 +1,13 @@
+D:\Python\Online_Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\Python\Online_Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\Python\Online_Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\Python\Online_Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\Python\Online_Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\Python\Online_Camp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+D:\Python\Online_Camp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
