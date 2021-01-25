@@ -7,7 +7,7 @@ namespace OOP1
     class ProductManager
     {
         //encapsulation
-        public void Add(Product product) 
+        public void Add(Product product) // nasıl çağrılacağını belirtmek için (tür ve isim) belirtilir
         {
             Console.WriteLine(product.ProductName + " eklendi.");      
         }

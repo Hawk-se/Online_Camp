@@ -15,11 +15,15 @@ namespace OOP1
 
             Product product2 = new Product { Id = 2, CategoryId = 5, UnitsInStock = 5, ProductName = "Kalem", UnitPrice = 35};
 
-            // PascalCase  // camelCase ( ProductManager türünde productManager (isim) )
+            // PascalCase   // camelCase ( ProductManager türünde productManager (isim) )
             // case sensitive
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
 
+
+            // int, double, bool... değer tip
+            // diziler, class, abstract class, interface... referans tip
+            // ref out
 
         }
     }

@@ -7,6 +7,7 @@ namespace Collections
     {
         static void Main(string[] args)
         {
+            //diziler sabit eleman sayısına sahip olduğu için eleman sayısı genişletilemez. O nedenle List<> koleksiyon yöntemi kullanılır.
             //string[] isimler = new string[] {"Engin", "Murat", "Kerem", "Halil" };
             //Console.WriteLine(isimler[0]);
             //Console.WriteLine(isimler[1]);
@@ -21,8 +22,6 @@ namespace Collections
             isimler2.Add("İlker");
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
-
-
 
         }
     }

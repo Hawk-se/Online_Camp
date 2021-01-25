@@ -46,6 +46,9 @@ namespace Metodlar
             sepetManager.Ekle(urun2);
             sepetManager.Ekle(urun3);
 
+
+            // bu kullanım diğer tarafta açıklandığı üzere doğru değil. 
+            // parametre eklendiğinde Ekle2 operatörünün kodunda düzeltme gerektirir!!!
             sepetManager.Ekle2("Armut", "Yeşil armut", 12, 10);
             sepetManager.Ekle2("Elma", "Yeşil elma", 12, 8);
             sepetManager.Ekle2("Karpuz", "Diyarbakır karpuzu", 12, 9);
