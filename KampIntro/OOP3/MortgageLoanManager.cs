@@ -4,13 +4,15 @@ using System.Text;
 
 namespace OOP3
 {
-    class CarCreditManager : ICreditManager
+
+    // Konut kredisi
+    class MortgageLoanManager : ICreditManager
     {
         
 
         public void Calculate()
         {
-            Console.WriteLine("Car credit payment plan has been calculated");
+            Console.WriteLine("Mortgage Loan payment plan has been calculated");
         }
 
         public void DoSomething()

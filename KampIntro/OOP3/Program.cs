@@ -7,17 +7,18 @@ namespace OOP3
     {
         static void Main(string[] args)
         {
-            ICreditManager financeCreditManager = new FinanceCreditManager();
-            ICreditManager carCreditManager = new CarCreditManager();
-            ICreditManager morgageCreditManager = new MorgageCreditManager();
+            ICreditManager financeLoanManager = new FinanceLoanManager();
+            ICreditManager transportLoanManager = new TransportLoanManager();
+            ICreditManager mortgageLoanManager = new MortgageLoanManager();
+            ICreditManager artisanLoanManager = new ArtisanLoanManager();
 
             ILoggerService databaseLoggerService = new DataBaseLoggerService();
             ILoggerService fileLoggerService = new FileLoggerService();
 
             ApplicationManager applicationManager = new ApplicationManager();
-            applicationManager.Apply(morgageCreditManager, new DataBaseLoggerService());  // new DataBaseLoggerService alternatif olarak böyle de ifade edilebilir
+            applicationManager.Apply(artisanLoanManager, new List<ILoggerService> { new DataBaseLoggerService(), new SmsLoggerService()});  // new DataBaseLoggerService alternatif olarak böyle de ifade edilebilir
 
-            List<ICreditManager> credits = new List<ICreditManager> { financeCreditManager, carCreditManager };
+            List<ICreditManager> credits = new List<ICreditManager> { financeLoanManager, transportLoanManager };
 
             //applicationManager.CreditPreInformation(credits);
 

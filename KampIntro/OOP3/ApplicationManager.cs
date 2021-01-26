@@ -7,13 +7,16 @@ namespace OOP3
     class ApplicationManager
     {
         // Method injection
-        public void Apply(ICreditManager creditManager, ILoggerService loggerService)
+        public void Apply(ICreditManager creditManager, List<ILoggerService> loggerServices) // çoklu Logger ile çalışmak için List<> eklendi
         {
             // Başvuran bilgilerini değerlendirme
             // 
 
             creditManager.Calculate();
-            loggerService.Log();
+            foreach (var loggerService in loggerServices)
+            {
+                loggerService.Log();
+            }
 
         }
 

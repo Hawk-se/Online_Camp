@@ -28,14 +28,14 @@ namespace OOP2
             // SOLID
 
             // new bellekteki referens no'dur
-            // Customer hem Individual hem de Corporate referansını tutabiliyor
+            // Customer hem IndividualCustomer hem de CorporateCustomer referansını tutabiliyor !!!
 
             Customer customer3 = new IndividualCustomer();
             Customer customer4 = new CorporateCustomer();
 
 
             CustomerManager customerManager = new CustomerManager();
-            customerManager.Add(customer1);
+            customerManager.Add(customer1);   // CustomerManager'ın örneğini oluşturduktan sonra hem customer1 hem de customer2 çağrılabilir
             customerManager.Add(customer2);
 
         }

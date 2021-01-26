@@ -4,12 +4,14 @@ using System.Text;
 
 namespace OOP3
 {
-    class FinanceCreditManager : ICreditManager
+    // Taşıt kredisi
+    class TransportLoanManager : ICreditManager
     {
         
+
         public void Calculate()
         {
-            Console.WriteLine("Finance Credit payment plan has been calculated"); 
+            Console.WriteLine("Transport Loan payment plan has been calculated");
         }
 
         public void DoSomething()
@@ -18,4 +20,3 @@ namespace OOP3
         }
     }
 }
-

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    // interface'lerimize Service ismi veriyoruz
+    // interface'lerimize Service & Manager gibi isimler veriyoruz
     interface ILoggerService
     {
         void Log();

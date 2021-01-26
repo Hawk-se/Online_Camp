@@ -4,13 +4,14 @@ using System.Text;
 
 namespace OOP3
 {
-    class MorgageCreditManager : ICreditManager
+
+    // İhtiyaç kredisi
+    class FinanceLoanManager : ICreditManager
     {
         
-
         public void Calculate()
         {
-            Console.WriteLine("Morgage Credit payment plan has been calculated"); ;
+            Console.WriteLine("Finance Loan payment plan has been calculated"); 
         }
 
         public void DoSomething()
@@ -19,3 +20,4 @@ namespace OOP3
         }
     }
 }
+
